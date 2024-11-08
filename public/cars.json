@@ -1,0 +1,205 @@
+{
+    "cars": [
+      {
+        "name": "Toyota Corolla",
+        "type": "Sedan",
+        "year": 2021,
+        "dailyRentalCost": 35,
+        "licensePlate": "ABC-123",
+        "image": "https://example.com/images/toyota_corolla.jpg"
+      },
+      {
+        "name": "Ford Fiesta",
+        "type": "Ferdehátú",
+        "year": 2020,
+        "dailyRentalCost": 30,
+        "licensePlate": "XYZ-789",
+        "image": "https://example.com/images/ford_fiesta.jpg"
+      },
+      {
+        "name": "BMW 3 Series",
+        "type": "Sedan",
+        "year": 2019,
+        "dailyRentalCost": 70,
+        "licensePlate": "DEF-456",
+        "image": "https://example.com/images/bmw_3_series.jpg"
+      },
+      {
+        "name": "Audi A4",
+        "type": "Sedan",
+        "year": 2021,
+        "dailyRentalCost": 75,
+        "licensePlate": "GHI-654",
+        "image": "https://example.com/images/audi_a4.jpg"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "type": "Sedan",
+        "year": 2022,
+        "dailyRentalCost": 80,
+        "licensePlate": "JKL-321",
+        "image": "https://example.com/images/mercedes_benz_c_class.jpg"
+      },
+      {
+        "name": "Honda Civic",
+        "type": "Sedan",
+        "year": 2020,
+        "dailyRentalCost": 40,
+        "licensePlate": "LMN-789",
+        "image": "https://example.com/images/honda_civic.jpg"
+      },
+      {
+        "name": "Volkswagen Golf",
+        "type": "Ferdehátú",
+        "year": 2019,
+        "dailyRentalCost": 35,
+        "licensePlate": "OPQ-234",
+        "image": "https://example.com/images/volkswagen_golf.jpg"
+      },
+      {
+        "name": "Chevrolet Malibu",
+        "type": "Sedan",
+        "year": 2018,
+        "dailyRentalCost": 33,
+        "licensePlate": "RST-567",
+        "image": "https://example.com/images/chevrolet_malibu.jpg"
+      },
+      {
+        "name": "Nissan Altima",
+        "type": "Sedan",
+        "year": 2021,
+        "dailyRentalCost": 45,
+        "licensePlate": "UVW-890",
+        "image": "https://example.com/images/nissan_altima.jpg"
+      },
+      {
+        "name": "Tesla Model 3",
+        "type": "Electric",
+        "year": 2022,
+        "dailyRentalCost": 90,
+        "licensePlate": "XYZ-101",
+        "image": "https://example.com/images/tesla_model_3.jpg"
+      },
+      {
+        "name": "Hyundai Elantra",
+        "type": "Sedan",
+        "year": 2019,
+        "dailyRentalCost": 35,
+        "licensePlate": "ABC-345",
+        "image": "https://example.com/images/hyundai_elantra.jpg"
+      },
+      {
+        "name": "Mazda 3",
+        "type": "Ferdehátú",
+        "year": 2020,
+        "dailyRentalCost": 37,
+        "licensePlate": "DEF-678",
+        "image": "https://example.com/images/mazda_3.jpg"
+      },
+      {
+        "name": "Ford Mustang",
+        "type": "Coupe",
+        "year": 2021,
+        "dailyRentalCost": 95,
+        "licensePlate": "GHI-234",
+        "image": "https://example.com/images/ford_mustang.jpg"
+      },
+      {
+        "name": "Chevrolet Camaro",
+        "type": "Coupe",
+        "year": 2021,
+        "dailyRentalCost": 90,
+        "licensePlate": "JKL-987",
+        "image": "https://example.com/images/chevrolet_camaro.jpg"
+      },
+      {
+        "name": "Jeep Wrangler",
+        "type": "SUV",
+        "year": 2020,
+        "dailyRentalCost": 85,
+        "licensePlate": "LMN-654",
+        "image": "https://example.com/images/jeep_wrangler.jpg"
+      },
+      {
+        "name": "Toyota Highlander",
+        "type": "SUV",
+        "year": 2021,
+        "dailyRentalCost": 70,
+        "licensePlate": "OPQ-432",
+        "image": "https://example.com/images/toyota_highlander.jpg"
+      },
+      {
+        "name": "Subaru Forester",
+        "type": "SUV",
+        "year": 2019,
+        "dailyRentalCost": 55,
+        "licensePlate": "RST-210",
+        "image": "https://example.com/images/subaru_forester.jpg"
+      },
+      {
+        "name": "Honda CR-V",
+        "type": "SUV",
+        "year": 2020,
+        "dailyRentalCost": 65,
+        "licensePlate": "UVW-345",
+        "image": "https://example.com/images/honda_crv.jpg"
+      },
+      {
+        "name": "Kia Sportage",
+        "type": "SUV",
+        "year": 2021,
+        "dailyRentalCost": 60,
+        "licensePlate": "XYZ-543",
+        "image": "https://example.com/images/kia_sportage.jpg"
+      },
+      {
+        "name": "BMW X5",
+        "type": "SUV",
+        "year": 2022,
+        "dailyRentalCost": 120,
+        "licensePlate": "ABC-789",
+        "image": "https://example.com/images/bmw_x5.jpg"
+      },
+      {
+        "name": "Audi Q5",
+        "type": "SUV",
+        "year": 2021,
+        "dailyRentalCost": 115,
+        "licensePlate": "DEF-432",
+        "image": "https://example.com/images/audi_q5.jpg"
+      },
+      {
+        "name": "Ford Explorer",
+        "type": "SUV",
+        "year": 2020,
+        "dailyRentalCost": 75,
+        "licensePlate": "GHI-321",
+        "image": "https://example.com/images/ford_explorer.jpg"
+      },
+      {
+        "name": "Volkswagen Passat",
+        "type": "Sedan",
+        "year": 2018,
+        "dailyRentalCost": 40,
+        "licensePlate": "JKL-111",
+        "image": "https://example.com/images/volkswagen_passat.jpg"
+      },
+      {
+        "name": "Mercedes-Benz GLE",
+        "type": "SUV",
+        "year": 2022,
+        "dailyRentalCost": 130,
+        "licensePlate": "LMN-222",
+        "image": "https://example.com/images/mercedes_benz_gle.jpg"
+      },
+      {
+        "name": "Hyundai Santa Fe",
+        "type": "SUV",
+        "year": 2020,
+        "dailyRentalCost": 65,
+        "licensePlate": "OPQ-333",
+        "image": "https://example.com/images/hyundai_santa_fe.jpg"
+      }
+    ]
+  }
+  
